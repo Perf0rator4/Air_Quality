@@ -1,4 +1,4 @@
-Univesity 1st Course Python project.
+University 1st Course Python project.
 
 Made in Jupyter Notebook. 
 
